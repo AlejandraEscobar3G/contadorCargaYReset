@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\maxinez\contadorEstados\simulation\qsim
+vcontadorEstado
+Z1 I26RS:IHjfDHV7h:NdgcWD0
+Z2 VfeUafVI=dedb;YmChOB[_0
+Z3 dE:\maxinez\contadorEstados\simulation\qsim
+Z4 w1524094044
+Z5 8ContadorEstados.vo
+Z6 FContadorEstados.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|ContadorEstados.vo|
+Z9 o-work work -O0
+Z10 ncontador@estado
+!i10b 1
+Z11 !s100 HXX]DV_7zg_amY^mlQ<8D2
+!s85 0
+Z12 !s108 1524094046.077000
+Z13 !s107 ContadorEstados.vo|
+!s101 -O0
+vcontadorEstado_vlg_check_tst
+!i10b 1
+!s100 ^=HWf99X_C:DZA4K8_5CZ3
+IRo_mbXW8Y4RZ1TYH8?7Ll1
+V7Si9VDzM28=Blac:]WUka0
+R3
+Z14 w1524094040
+Z15 8ContadorEstados.vt
+Z16 FContadorEstados.vt
+L0 71
+R7
+r1
+!s85 0
+31
+Z17 !s108 1524094046.721000
+Z18 !s107 ContadorEstados.vt|
+Z19 !s90 -work|work|ContadorEstados.vt|
+!s101 -O0
+R9
+Z20 ncontador@estado_vlg_check_tst
+vcontadorEstado_vlg_sample_tst
+!i10b 1
+!s100 eH[>em_3Q7lU=@bbc8J_U2
+I=o?Y`ng_?VKl[[RcoVk?G0
+Vf<Jfe2E1aT4IbVEUS^5913
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R9
+Z21 ncontador@estado_vlg_sample_tst
+vcontadorEstado_vlg_vec_tst
+!i10b 1
+!s100 =7f7I3648FU9]GheaDQWP0
+I@h_4]TYD7jY]g=DYKNIEV1
+Z22 V4Kd:VBebVTakRNzEccakY1
+R3
+R14
+R15
+R16
+L0 199
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R9
+Z23 ncontador@estado_vlg_vec_tst
